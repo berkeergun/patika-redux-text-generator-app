@@ -1,3 +1,5 @@
+# Redux Text Generator App [Live Server](https://redux-text-generator-app-berke.surge.sh/)
+![text-generator-app](./src/text-generator.jpg)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

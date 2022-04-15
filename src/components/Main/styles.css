@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Rowdies:wght@700&display=swap");
+
+.main{
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  font-weight:600;
+}
+.input {
+  color: white;
+  padding: 5px;
+  margin: 5px;
+  background: linear-gradient(to right, #0f2027, #203a43);
+  text-align: center;
+  width: 50px;
+  border-radius: 30px;
+}
+.option {
+  color: white;
+  padding: 5px;
+  margin: 5px;
+  background: linear-gradient(to right, #0f2027, #203a43);
+  border-radius: 30px;
+}
+.pre {
+  border-radius: 10px;
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+  padding: 10px;
+  margin: 10px;
+  word-wrap: break-word;
+  white-space:pre-wrap;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+  box-shadow: 5px 10px 1px 1px rgba(0, 0, 0, 0.4);
+}
+
+select.option option.option1{
+  background-color: #0f2027;
+}
+select.option option.option2 {
+  background-color: #0f2027;
+}
+
+input[type=number]::-webkit-inner-spin-button {
+  cursor:cell;
+}
